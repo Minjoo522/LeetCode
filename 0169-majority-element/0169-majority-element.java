@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int majorityElement(int[] nums) {
         int count = 0;
@@ -16,7 +14,7 @@ class Solution {
                 count--;
             }
         }
-        
+
         return candidate;
     }
 }
