@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Minjoo522/LeetCode/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Minjoo522/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Minjoo522/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Minjoo522/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Minjoo522/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Minjoo522/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
