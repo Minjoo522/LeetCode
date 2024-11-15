@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Minjoo522/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Minjoo522/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Minjoo522/LeetCode/tree/master/0258-add-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Minjoo522/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Minjoo522/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Minjoo522/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
